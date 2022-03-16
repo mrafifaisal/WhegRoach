@@ -1,1 +1,2 @@
+Custom trained weight file also available at:
 
